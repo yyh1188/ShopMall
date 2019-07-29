@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopMal-lManager/shopMal-lManager.iml" filepath="$PROJECT_DIR$/shopMal-lManager/shopMal-lManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Pojo/shopMall-Manager-Pojo.iml" filepath="$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Pojo/shopMall-Manager-Pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Service/shopMall-Manager-Service.iml" filepath="$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Service/shopMall-Manager-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Web/shopMall-Manager-Web.iml" filepath="$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Web/shopMall-Manager-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopMall-Util/shopMall-Util.iml" filepath="$PROJECT_DIR$/shopMall-Util/shopMall-Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Mapper/shopMall-manager-mapper.iml" filepath="$PROJECT_DIR$/shopMal-lManager/shopMall-Manager-Mapper/shopMall-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopMall-parent/shopMall-parent.iml" filepath="$PROJECT_DIR$/shopMall-parent/shopMall-parent.iml" />
+    </modules>
+  </component>
+</project>

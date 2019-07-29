@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test" />
+        <module name="shopMall-manager-mapper" />
+        <module name="shopMall-Manager-Web" />
+        <module name="shopMall-Manager-Pojo" />
+        <module name="shopMall-Util" />
+        <module name="shopMall-Manager-Service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shopMal-lManager" target="1.7" />
+      <module name="shopMall-manager-mapper" target="1.7" />
+      <module name="shopMall-Manager-Pojo" target="1.7" />
+      <module name="shopMall-Manager-Service" target="1.7" />
+      <module name="shopMall-Manager-Web" target="1.7" />
+      <module name="shopMall-parent" target="1.7" />
+      <module name="shopMall-Util" target="1.7" />
+      <module name="test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
